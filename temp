@@ -11,4 +11,8 @@ do
 	do
 		echo "	$value"
 	done
+<<<<<<< HEAD
 done | sort | grep root
+=======
+done
+>>>>>>> feature1
