@@ -11,4 +11,4 @@ do
 	do
 		echo "	$value"
 	done
-done | sort
+done | sort | grep root
